@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E8B88BB5-14A9-4E68-9567-5DEB10E94708}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment1Q4/Program.cs">
+    <Files>
+      <File FileName="../COIS4050Q3/COIS4050Q3/Program.cs" Line="112" Column="1" />
+      <File FileName="Assignment1Q4/Program.cs" Line="12" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assignment1Q4 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
